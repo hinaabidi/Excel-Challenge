@@ -55,8 +55,16 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 * Create a report in Microsoft Word and answer the following questions.
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+a.    Theatre Kickstarter Projects have the most number.
+b.    Journalism Kickstarter Projects have the least number.
+c.    The number of successful Kickstarter Projects are comparatively more than the failed Kickstarter projects.
+
 2. What are some limitations of this dataset?
+a.    Not sure as of now.
 3. What are some other possible tables and/or graphs that we could create?
+a.    A Pie Chart.
+b.    Percentage Table. 
+
 
 ## Bonus
 
